@@ -1,4 +1,5 @@
 # ClassPilot AI
+#Demo file link: https://drive.google.com/file/d/1V7fr_cxO7u1Ys-cAAnV5SNJ2eP4s1rib/view?usp=sharing
 
 ClassPilot AI is a small English-language chatbot created and owned by Sabina Akter. It answers questions about a fictional sample class, the AI-101 course, assignment descriptions, the next due assignment, and simple study planning. The course data is in a separate JSON file. Python and Flask serve the chat website, and Ollama with `qwen3:0.6b` provides locally generated wording.
 
